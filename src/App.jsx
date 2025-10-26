@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-import './App.css'
-
-function App() {
-  
-  return (
-    <>
-   
-    </>
-  )
-=======
 import './App.css';
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
@@ -32,7 +21,6 @@ function App() {
       <Footer />
     </BrowserRouter>
   );
->>>>>>> 1dd1282c61c5d53bea7115381df70b02b983bdf2
 }
 
 export default App;
